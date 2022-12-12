@@ -6,5 +6,6 @@ public class TijanuBoliStomak {
         System.out.println("Tijanu Boli stomak" + "\nJelena se kupa");
         
         //probaj da downloadujes file
+        //proba za jelenu
     }
 }
