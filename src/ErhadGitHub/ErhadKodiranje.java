@@ -6,3 +6,5 @@ public class ErhadKodiranje {
         System.out.println("Gde si sefeee,jesi ziv?");
     }
 }
+
+//ispravi ovo sefe, umesto sefe upisi careee
