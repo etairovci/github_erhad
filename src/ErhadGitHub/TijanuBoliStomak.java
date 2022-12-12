@@ -7,6 +7,8 @@ public class TijanuBoliStomak {
         
         //probaj da downloadujes file
         //proba za jelenu
+        
+       //tuka je zavrsio kupanje, a ja ubacujem ovaj red iznad" proba  za erhada"
         //proba za erhada
     }
 }
